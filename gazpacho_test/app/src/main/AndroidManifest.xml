@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.gazpacho.lgramir.gazpacho_test">
+
+    <application
+
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".ChoiceGazpachoActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".ChoiceFruitActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".ChoiceActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+
+        <activity
+            android:name=".GazpachoActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".SizeActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+
+        <activity
+            android:name=".SaltActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".IngredientsGazpachoActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".IngredientsFruitActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".SpicyActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".TakeawayActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".OrderActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+
+
+        <activity
+            android:name=".FrenchWTFGazpachoActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".FrenchSizeActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".FrenchIngredientsActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".FrenchSpicyActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".FrenchTakeawayActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".FrenchOrderActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+
+
+        <activity
+            android:name=".EnglishWTFGazpachoActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".EnglishSizeActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".EnglishIngredientsActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".EnglishSpicyActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".EnglishTakeawayActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".EnglishOrderActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+
+        <activity
+            android:name=".LanguageActivity"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity android:name=".UsbConnect">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+
+
+
+
+
+    </application>
+
+</manifest>
