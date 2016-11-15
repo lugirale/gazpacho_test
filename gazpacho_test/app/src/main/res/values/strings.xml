@@ -1,0 +1,208 @@
+<resources>
+
+    <string name="app_name">Gazpacho</string>
+
+    <string name="Spanish_button">Español</string>
+    <string name="English_button">English</string>
+    <string name="French_button">Français</string>
+
+    <string name="Spanish_toast">En español</string>
+    <string name="English_toast">English language</string>
+    <string name="French_toast">langue Français</string>
+
+
+    <string name="WTFisGazpacho_text_view">Selecciona tu vaso de fruta, que consta de una ensalada agridulce refrescante con fruta y verdura de temporada.</string>
+
+    <string name="WTFisGazpacho_text_view1">El gazpacho Moreliano, es una ensalada agridulce refrescante
+        con frutas y verduras picadas con queso rallado. Los ingredientes son:\nMango, Piña, Jicama, Jugo de naranja, Limon, Sal, Chile en polvo, Chile de botella y Queso\n\nSelecciona tu Gazpacho:</string>
+
+     <string name="EnglishWTFisGazpacho_text_view">
+            The Mexican gazpacho Morelia style, is a bittersweet and refreshing salad
+    with fruits and vegetables chopped with cheese grated. The blended ingredients are: cucumber, mango, pineapple, jicama
+    Watermelon, juice of lemon or orange, chili powder, salt, minced onion, aged cheese.</string>
+
+     <string name="FrenchWTFisGazpacho_text_view">
+            Le gaspacho mexicain style de Morelia, est une salade douce-amère et rafraîchissante
+    avec des fruits et légumes hachés avec du fromage râpé. Les ingrédients mélangés sont : concombre, mangue, ananas, jicama
+    Melon d’eau, de jus de citron ou d’orange, poudre de chili, sel, haché oignon, fromage vieilli. </string>
+
+    <string name="next_button">Continuar</string>
+    <string name="english_next_button">next</string>
+    <string name="french_next_button">prochain</string>
+
+
+    <string name="question_price_size">Selecciona el tamaño.</string>
+
+
+    <string name="small_button">Chico $10 pesos</string>
+    <string name="medium_button">Mediano $20 pesos</string>
+    <string name="big_button">Grande $30 pesos</string>
+
+    <string name="big_toast">Gazpacho grande</string>
+    <string name="medium_toast">Gazpacho mediano</string>
+    <string name="small_toast">Gazpacho chico</string>
+
+
+
+    <string name="english_question_price_size">Select gazpacho size</string>
+
+    <string name="english_small_button">Small $10 Mexican pesos</string>
+    <string name="english_big_button">Big $20 Mexican pesos</string>
+
+    <string name="english_big_toast">Big Gazpacho</string>
+    <string name="english_small_toast">small Gazpacho</string>
+
+
+
+    <string name="french_question_price_size">Sélectionnez la taille de votre gaspacho.</string>
+
+    <string name="french_small_button">Gazpacho de petite taille $10 pesos  mexicains</string>
+    <string name="french_big_button">Gazpacho de grande taille $20 pesos mexicains</string>
+
+    <string name="french_big_toast">Gazpacho de petite taille</string>
+    <string name="french_small_toast">Gazpacho de grande taille</string>
+
+    <string name="test_question_mix">Selecciona los ingedientes</string>
+
+
+
+
+    <string name="tradicional_button">Gazpacho Moreliano</string>
+    <string name="tradicional_toast">Gazpacho Moreliano</string>
+
+    <string name="choice_button">Vaso de fruta con trozos grandes</string>
+    <string name="choice_toast">Vaso de fruta</string>
+
+    <string name="tradicional_button1">Gazpacho tradicional (con todo)</string>
+    <string name="tradicional_toast1">Gazpacho tradicional</string>
+
+    <string name="choice_button1">Seleccionar ingredientes</string>
+    <string name="choice_toast1">Seleccionar ingredientes</string>
+
+    <string name="question_mix">Selecciona los ingredientes deseados y presiona CONTINUAR.</string>
+
+    <string name="question_mix1">Opcion para poner nombre segun la fruta del dia GAZPACHO</string>
+    <string name="question_mix2">Opcion para poner nombre segun la fruta del dia FRUTA TROZOS GRANDES</string>
+
+    <string name="selected_ingredients_button">Continuar</string>
+    <string name="ingredients_toast">Ingredientes seleccionados</string>
+
+
+
+
+    <string name="french_question_mix">Le traditionnel gaspacho contient tous les ingrédients de la liste\n\nsélectionner PROCHAIN si vous deaseas un Gazpacho traditionnel\n\nO sélectionner les ingrédients souhaités et appuyez sur Continuer.</string>
+
+    <string name="french_selected_ingredients_button">prochain</string>
+    <string name="french_ingredients_toast">ingrédients choisis</string>
+
+    <string name="french_tradicional_button">traditionnel gazpacho</string>
+    <string name="french_tradicional_toast">traditionnel gazpacho</string>
+
+
+	<string name="english_question_mix">The traditional gazpacho contains all the ingredients from the list\n\n select NEXT if you deaseas a traditional Gazpacho\n\nOr select the desired ingredients and press continue.</string>
+
+    <string name="english_selected_ingredients_button">NEXT</string>
+    <string name="english_ingredients_toast">selected ingredients</string>
+
+    <string name="english_tradicional_button">classic gazpacho</string>
+    <string name="english_tradicional_toast">classic gazpacho</string>
+
+
+
+    <string name="question_salt">Deseas tu gazpacho con sal?</string>
+
+    <string name="notSalt_button">Sin sal</string>
+    <string name="salt_button">Con sal</string>
+
+    <string name="notSalt_toast">Sin sal</string>
+    <string name="salt_toast">Con sal</string>
+
+
+    <string name="question_spicy">Deseas tu gazpacho con chile?</string>
+
+    <string name="notSpicy_button">Sin chile</string>
+    <string name="spicy_button">Con chile</string>
+
+    <string name="notSpicy_toast">Sin chile</string>
+    <string name="spicy_toast">Con chile</string>
+
+    <string name="french_question_spicy">Vous voulez votre gaspacho avec épicé ?</string>
+
+    <string name="french_notSpicy_button">non épicé</string>
+    <string name="french_spicy_button">avec épicé</string>
+
+    <string name="french_notSpicy_toast">non épicé</string>
+    <string name="french_spicy_toast">avec épicé</string>
+
+
+
+    <string name="english_question_spicy">You want your gazpacho with spicy ?</string>
+
+    <string name="english_notSpicy_button">with spicy</string>
+    <string name="english_spicy_button">non-spicy</string>
+
+    <string name="english_notSpicy_toast">with spicy</string>
+    <string name="english_spicy_toast">non-spicy</string>
+
+
+
+    <string name="question_takeaway">Es para comer aquí o es para llevar?</string>
+
+    <string name="here_button">Para comer aqui</string>
+    <string name="takeaway_button">Es para llevar</string>
+
+    <string name="here_toast">para aqui</string>
+    <string name="takeaway_toast">para llevar</string>
+
+    <string name="french_question_takeaway">Gazpacho est à emporter?</string>
+
+    <string name="french_here_button">manger ici</string>
+    <string name="french_takeaway_button">A emporter</string>
+
+    <string name="french_here_toast">manger ici</string>
+    <string name="french_takeaway_toast">A emporter</string>
+
+
+
+    <string name="english_question_takeaway">Gazpacho is to take away?</string>
+
+    <string name="english_here_button">to eat here</string>
+    <string name="english_takeaway_button">to take away</string>
+
+    <string name="english_here_toast">to eat here</string>
+    <string name="english_takeaway_toast">to take away</string>
+
+
+    <string name="details_label">Selecciona ORDENAR para confirmar la venta entrega el ticket al cajero\n\no Selecciona REGRESAR para volver a escoger nuevamente\n\nDetalles de la venta:</string>
+
+    <string name="date">Fecha:</string>
+
+    <string name="home_button">REGRESAR</string>
+    <string name="order_button">ORDENAR</string>
+
+
+    <string name="french_details_label">Sélectionnez  ORDONNER pour confirmer les ventes, bon de livraison à destituer\n\nou sélectionnez RETOUR À LA pour sauvegarder de choisir à nouveau.\n\n Detalles vente:</string>
+
+    <string name="french_date">Date:</string>
+
+    <string name="french_home_button">RETOUR À LA</string>
+    <string name="french_order_button">ORDONNER</string>
+
+
+
+    <string name="english_details_label">Select ORDER to confirm the sales, delivery ticket to cashier\n\nor select BACK TO MAIN to back to choose again\n\nSale details:</string>
+
+    <string name="english_date">Date:</string>
+
+    <string name="english_home_button">BACK TO MAIN</string>
+    <string name="english_order_button">ORDER</string>
+
+
+    <string name="btn_conn">Conectar impresora por USB</string>
+    <string name="btn_start">OK, impresora conectada, comenzar </string>
+    <string name="msg_getpermission">Conexion exitosa de impresora por USB </string>
+    <string name="msg_conn_state">El dispositivo USB no tiene acceso, porfavor re-conecta</string>
+    <string name="strLang">en</string>
+
+
+</resources>
